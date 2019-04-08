@@ -12,3 +12,7 @@
 </br>
 </br>
 <%= link_to "Back to Article Listing", articles_path %>
+</br>
+</br>
+</br>
+<td> <%= link_to "Delete Article", article_path(@article), method: :delete, data: {confirm: "Are you sure?"} %> </td>
