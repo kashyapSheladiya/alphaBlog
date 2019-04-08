@@ -1,6 +1,12 @@
 <h1>Create an Article</h1>
 
-#comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+<% if @article.errors.any? %>
+<ul>
+    <% @article.errors.full_messages.each do |msg| %>
+        <li> <%= msg %> </li>
+    <% end %>
+</ul>
+<% end %>
 
 <%= form_for @article do |f| %>
     <p>

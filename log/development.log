@@ -1380,3 +1380,637 @@ NoMethodError (undefined method `article_show' for #<ArticlesController:0x00007f
 Did you mean?  articles_path):
   
 app/controllers/articles_controller.rb:9:in `create'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:39:10 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298790918620'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:39:48 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298790406680'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:39:51 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298860805720'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:39:59 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298808220180'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:39:59 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298843038200'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:40:00 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: #comment = deal with article model, rails provide form_helper method. form_helper makes creating and dealing with form very easy.
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298808249660'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:40:12 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: 
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298791224920'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:40:27 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: 
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298842668420'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:40:28 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    2: 
+    3: 
+    4: 
+    5: <%= form_for @article do |f| %>
+    6:     <p>
+    7:         <%= f.label :title %> <br>
+    8:         <%= f.text_field :title %>
+  
+app/views/articles/new.html.erb:5:in `_app_views_articles_new_html_erb___2924722601051698422_70298790701120'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:41:08 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 24ms (Views: 17.0ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 15:41:18 +0200
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for ArticlesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for ::1 at 2019-04-08 15:42:11 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 17ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2019-04-08 15:43:16 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 26ms (Views: 17.9ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 15:43:31 +0200
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3xsiz12YyVFyKmO/dmgAMgxSru5Ja9qad7LddDOcTTE1rR83SwEAxXeVD0f7jc4Gg5sHpv7I6UKnZskRaYSJtg==", "article"=>{"title"=>"pppppppppppppp", "description"=>"ujhnbgnmkjiuztrfdcxse"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:8
+  [1m[36mArticle Create (0.3ms)[0m  [1m[32mINSERT INTO "articles" ("title", "description", "created_at") VALUES (?, ?, ?)[0m  [["title", "pppppppppppppp"], ["description", "ujhnbgnmkjiuztrfdcxse"], ["created_at", "2019-04-08 13:43:31.359046"]]
+  ↳ app/controllers/articles_controller.rb:8
+  [1m[35m (0.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:8
+Redirected to http://localhost:3000/articles/9
+Completed 302 Found in 4ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/articles/9" for ::1 at 2019-04-08 15:43:31 +0200
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for ArticlesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:11:59 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.5ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...end=( if @article.errors.any? );@output_buffer.safe_append='
+...                               ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:6: syntax error, unexpected keyword_end
+...eze;@output_buffer.append=( end );@output_buffer.safe_append...
+...                               ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end
+'.freeze;@output_buffer.append=( end );@output_buffer.safe_append='
+                                    ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+app/views/articles/new.html.erb:6: syntax error, unexpected keyword_end
+app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end
+app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:13:31 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...end=( if @article.errors.any? );@output_buffer.safe_append='
+...                               ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+ end 
+    ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:13:56 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...end=( if @article.errors.any? );@output_buffer.safe_append='
+...                               ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+ end 
+    ^
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/new.html.erb:3: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+app/views/articles/new.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+app/views/articles/new.html.erb:26: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/new.html.erb:28: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:14:39 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:15:58 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:16:11 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:16:37 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:19:03 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:19:05 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:25:28 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.5ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:28:43 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/kashyab/Projects/Udemy/RubyOnRails/alphaBlog/app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+    <%= yield 
+     ^):
+  
+app/views/layouts/application.html.erb:20: syntax error, unexpected '<'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:29:18 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 18ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 16:29:45 +0200
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZQusWpbtr1BRbCxJ6vBv/TJjyuYqcHPcEdHoz783f/+PvZGigHRmxFTTQLFnFaHJvapjrp3TQATBBfyq5S+7eA==", "article"=>{"title"=>"Hello World", "description"=>"World is great."}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[36mArticle Create (0.3ms)[0m  [1m[32mINSERT INTO "articles" ("title", "description", "created_at") VALUES (?, ?, ?)[0m  [["title", "Hello World"], ["description", "World is great."], ["created_at", "2019-04-08 14:29:45.471912"]]
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[35m (0.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+Redirected to http://localhost:3000/articles/10
+Completed 302 Found in 3ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/articles/10" for ::1 at 2019-04-08 16:29:45 +0200
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"10"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 10], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:18
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 14.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/new" for ::1 at 2019-04-08 16:29:55 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 16:30:07 +0200
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"slza0wrWdw+KQ9PgmWxme8xcwuFTmUuynmdp5qSGt9VY6ucrHE++m4/8vxgUiahPQ5VrqeQ6eGpOs32D/p5zUg==", "article"=>{"title"=>"aa", "description"=>"f vvbb"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 18ms (Views: 15.3ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 16:30:20 +0200
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GHGVhsDi9/cl7/hAZc4TNtJAJgMZy7+J1sEYOz2yOo/yx6h+1ns+YyBQlLjoK90CXYmPS65ojFEGFQxeZ6r+CA==", "article"=>{"title"=>"aaa", "description"=>"f vvb"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 19ms (Views: 16.6ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/articles" for ::1 at 2019-04-08 16:30:31 +0200
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Hb0xa/7Fhbjwv6ZyCKDd06s8EcJvU8DQNCVEkSVX/GD3CwyT6FxMLPUAyoqFRRPnJPW4itjw8wjk8VD0f0845w==", "article"=>{"title"=>"aaa", "description"=>"fjjjhgfddthbff"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[36mArticle Create (0.4ms)[0m  [1m[32mINSERT INTO "articles" ("title", "description", "created_at") VALUES (?, ?, ?)[0m  [["title", "aaa"], ["description", "fjjjhgfddthbff"], ["created_at", "2019-04-08 14:30:31.998892"]]
+  ↳ app/controllers/articles_controller.rb:9
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:9
+Redirected to http://localhost:3000/articles/11
+Completed 302 Found in 5ms (ActiveRecord: 2.5ms)
+
+
+Started GET "/articles/11" for ::1 at 2019-04-08 16:30:32 +0200
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"11"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 11], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:18
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 16ms (Views: 13.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-08 16:30:35 +0200
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for ArticlesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for ::1 at 2019-04-08 16:30:43 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 19ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2019-04-08 16:32:58 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2019-04-08 16:33:11 +0200
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 16ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
