@@ -2,6 +2,19 @@
 @import "bootstrap";
 //@import 'bootstrap/theme';
 
+.test-button {
+    margin-left: 173px;
+}
+
+.dropdown-toggle {
+    color: #777 !important;
+    font-weight: bold;
+}
+
+.dropdown-toggle:hover {
+    color: #3333ff;
+}
+
 .navbar {
     background-color: #000000;
 }
@@ -21,6 +34,7 @@
     color: #777;
     font-weight: bold;
 }
+
 #menu:hover {
     color: #3333ff;
 }
