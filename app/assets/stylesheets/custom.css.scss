@@ -1,15 +1,15 @@
-$navbar-default-bg: #ff4d4d;
-
-
 //@import "bootstrap-sprockets";
 @import "bootstrap";
 //@import 'bootstrap/theme';
 
+.navbar {
+    background-color: #000000;
+}
 
 #logo {
     float: left;
     font-weight: bold;
-    color: #000000;
+    color: #FFFFFF;
     text-transform: uppercase;
 }
 
@@ -17,6 +17,10 @@ $navbar-default-bg: #ff4d4d;
     color: #3333ff;
 }
 
+#menu {
+    color: #777;
+    font-weight: bold;
+}
 #menu:hover {
     color: #3333ff;
 }
@@ -26,7 +30,7 @@ $navbar-default-bg: #ff4d4d;
 }
 
 .jumbotron {
-    background-color: #ffff66;
+    background-color: #b3d1ff;
     background-size: cover;
     height: 550px;
 }
