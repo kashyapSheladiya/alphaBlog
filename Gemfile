@@ -5,7 +5,7 @@ ruby '2.3.7'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
-
+gem 'bcrypt', '~> 3.1.7'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -57,7 +57,7 @@ end
 
 group :test do
   # Use sqlite3 as the database for Active Record
-  #Actually, 'sqlite3' comes at the top in line 8, but we pasted here because heroku doesn't support sqlite.
+  #Actually, 'sqlite3' comes at the top in line 8(excatly under gem rails), but we pasted here because heroku doesn't support sqlite.
   #Heroku only supports postgrey.
   gem 'sqlite3'
 
