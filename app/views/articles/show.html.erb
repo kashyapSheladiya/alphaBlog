@@ -4,7 +4,7 @@
     <% if @article.user %>
         <ul class="listing">
             <div class="row center">
-                <div class="col-xl-4 col-xl-offset-4">
+                <div class="col-xl-4 col-xl-offset-4", align = "center">
                     <li>Created by:</li>
                     <li><%= link_to gravatar_for(@article.user), user_path(@article.user) %></li>
                     <li class="article-title">
