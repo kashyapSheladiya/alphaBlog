@@ -1,3 +1,5 @@
 <h1 class= "mt-3", align = "center">Listing all articles</h1>
-
 <%= render 'article', obj: @articles %>
+<div class="offset-xl-5 mt-4">
+    <%= will_paginate %>
+</div>
