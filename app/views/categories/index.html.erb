@@ -1,0 +1,18 @@
+<h1 align="center" class="mt-3"> Listing all Categories </h1>
+
+<div align = "center">
+    <% @categories.each do |category| %>
+        <ul class="listing">
+            <div class="row">
+                <div class="card card-body bg-light col-xl-6 offset-xl-3 mt-2">
+                    <li class="category-title">
+                    <%= link_to category.name, category_path(category) %>
+                    </li>
+                </div>
+            </div>
+        </ul>
+    <% end %>
+    <div class="offset-xl-5 mt-4">
+        <%= will_paginate %>
+    </div>
+</div>
