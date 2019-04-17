@@ -85,6 +85,17 @@
     padding-left: 0;
 }
 
+.badge{
+    background-color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.input_checkbox input {
+    width: auto !important;
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
